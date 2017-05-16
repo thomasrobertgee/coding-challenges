@@ -2,9 +2,9 @@
 A set of coding challenges of increasing difficulty to be completed in Ruby, Javascript, Python & Elixir. The purpose of this is to increase knowledge of language fundamentals.
 
 ### Challenge 1
-#### Example text
+#### Print 'Hello, world!' to the screen.
 
-- [ ] Ruby
-- [ ] Javascript
+- [x] Ruby
+- [x] Javascript
 - [ ] Python
-- [ ] Elixir
+- [x] Elixir
